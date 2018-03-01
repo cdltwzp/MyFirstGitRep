@@ -6,3 +6,4 @@ create a new branch of dev;
 create the sixth line content;
 write a world is "D";
 write a world is "M";
+new branch test -nff;
