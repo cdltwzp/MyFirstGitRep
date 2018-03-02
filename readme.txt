@@ -9,3 +9,4 @@ write a world is "M";
 new branch test -nff;
 new branch test ;
 wriet a workd is 'F';
+clone Rep add;
