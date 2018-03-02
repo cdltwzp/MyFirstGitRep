@@ -9,3 +9,5 @@ write a world is "M";
 new branch test -nff;
 new branch test ;
 master git stash;
+R1 Rep commit;
+R1 Rep sencond commit;
