@@ -11,3 +11,4 @@ new branch test ;
 master git stash;
 R1 Rep commit;
 R1 Rep sencond commit;
+Test isNeedTo set TrackBranch;
