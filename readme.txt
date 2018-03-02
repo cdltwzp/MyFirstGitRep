@@ -9,3 +9,5 @@ write a world is "M";
 new branch test -nff;
 new branch test ;
 wriet a workd is 'F';
+R1 dev commit;
+R1 dev second commit;
