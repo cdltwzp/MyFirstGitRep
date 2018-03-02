@@ -11,3 +11,6 @@ new branch test ;
 wriet a workd is 'F';
 R1 dev commit;
 R1 dev second commit;
+clone Rep add;
+clone Rep sencond add;
+db9290332a6220b9a816777acfe
